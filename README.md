@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayushi Shukla</h1>
+<img align="right" alt="Coding" width="400" src="">
+
 - 🌱 I’m currently learning **frontend development**
 
 - 💬 Ask me about **Tech, Java, C++, movies, astronomy💫**
