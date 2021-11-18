@@ -5,16 +5,16 @@
 
 <br>
  <br>
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning ---> Frontend Development
  <br>
  <br>
-- 💬 Ask me about **Tech, Java, C++, movies, astronomy💫**
+- 💬 Ask me about ---> Tech, Java, C++, movies, astronomy💫
  <br>
  <br>
-- 📫 How to reach me **ayushi.shukla8102@gmail.com**
+- 📫 How to reach me ---> ayushi.shukla8102@gmail.com
  <br>
   <br>
-- ⚡ Fun fact **I'm tenacious!😉**
+- ⚡ Fun fact --> I'm tenacious!😉
  <br>
  <br>
 <br>
