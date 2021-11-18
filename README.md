@@ -17,7 +17,7 @@
 - ⚡ Fun fact **I'm tenacious!😉**
  <br>
  <br>
-
+<br>
 <hr size "3" noshade>
 <br>
 <h2 align="left">Connect with me:</h3>
