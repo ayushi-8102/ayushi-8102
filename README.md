@@ -11,7 +11,7 @@
 - 💬 Ask me about ---> Tech, Java, C++, movies, astronomy💫
  <br>
  <br>
-- 📫 How to reach me ---> ayushi.shukla8102@gmail.com
+- 📫 How to reach me ---> <a href="mailto:ayushi.shukla8102@gmail.com>
  <br>
   <br>
 - ⚡ Fun fact --> I'm tenacious!😉
