@@ -5,7 +5,7 @@
 
 <br>
  <br>
-- 🌱 I’m currently learning ---> Frontend Development
+- 🌱 I’m currently learning ---> Web Development
  <br>
  <br>
 - 💬 Ask me about ---> Tech, Java, C++, movies, astronomy💫
