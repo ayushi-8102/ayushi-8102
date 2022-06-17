@@ -7,11 +7,10 @@
 - 🌱 I’m currently learning ReactJS and Blockchain Technology👨‍💻
  <br>
  <br>
-- 💬 Ask me about Web Technologies, DSA, C++, movies, astronomy💫
- <br>
+- 💬 Ask me about Web Technologies, DSA, C++, astronomy💫
  <br>
 - 📫 How to reach me: <a href="mailto:ayushi.shukla8102@gmail.com">Ayushi Shukla</a>.<br>
--<br>
+-<br><br>
 - ⚡ Fun fact  I'm tenacious!😉
  <br><br>
  -😄 Pronouns: <strong>She/Her</strong>
