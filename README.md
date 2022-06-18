@@ -1,6 +1,5 @@
+<h1 align="center">Hi 👋, I'm Ayushi Shukla</h1>
 
-
-<hr size "3" noshade>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/91957156/142490103-c192839f-2d16-46e3-ba1d-36329d9a1582.jpg">
 
  <br>
@@ -8,9 +7,9 @@
  <br>
  <br>
 - 💬 Ask me about Web Technologies, DSA, C++, astronomy💫
- <br>
+ <br><br>
 - 📫 How to reach me: <a href="mailto:ayushi.shukla8102@gmail.com">Ayushi Shukla</a>.<br>
--<br><br>
+-<br>
 - ⚡ Fun fact  I'm tenacious!😉
  <br><br>
  -😄 Pronouns: <strong>She/Her</strong>
