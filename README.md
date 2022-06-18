@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ayushi Shukla</h1>
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/91957156/174414818-0038aa38-aef6-47e5-886b-05659cc9c4d7.gif)
+--------------
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/91957156/142490103-c192839f-2d16-46e3-ba1d-36329d9a1582.jpg">
 
