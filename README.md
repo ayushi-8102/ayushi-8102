@@ -31,3 +31,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushi-8102&" alt="ayushi-8102" /></p>
 
+## Watch My Contributions got eaten by a Snake🐍
+![snake-game](https://github.com/ayushi-8102/ayushi-8102/blob/output/.github/github-contribution-grid-snake.svg)
