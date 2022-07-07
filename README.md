@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning  Blockchain,Solidity and Smart Contracts👨‍💻
  <br>
  <br>
+ - 🤝 I’m looking for help with Web 3.0 Projects
+  <br><br>
 - 💬 Ask me about Web Technologies, DSA, C++, astronomy💫
  <br><br>
 - 📫 How to reach me: <a href="mailto:ayushi.shukla8102@gmail.com">Ayushi Shukla</a>.<br>
