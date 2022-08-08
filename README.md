@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/91957156/142490103-c192839f-2d16-46e3-ba1d-36329d9a1582.jpg">
 
  <br>
-- 🌱 I’m currently learning  Blockchain,Solidity and Smart Contracts
+- 🌱 I’m currently learning  Blockchain
  <br>
  <br>
  - 🤝 I’m looking for help with Web 3.0 Projects
