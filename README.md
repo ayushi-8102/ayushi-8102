@@ -35,3 +35,5 @@
 
 ## Watch My Contributions got eaten by a Snake🐍
 ![snake-game](https://github.com/ayushi-8102/ayushi-8102/blob/output/.github/github-contribution-grid-snake.svg)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ayushi-8102&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi-8102" /> </p>
+
