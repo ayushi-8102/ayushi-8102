@@ -13,7 +13,7 @@
  <br><br>
 - 📫 How to reach me: <a href="mailto:ayushi.shukla8102@gmail.com">Ayushi Shukla</a>.<br>
 -<br>
-- ⚡ Fun fact  I'm tenacious!😉
+- ⚡ Fun fact  I'm a huge fan of Marvel Comics✨
  <br><br>
  -😄 Pronouns: <strong>She/Her</strong>
 <br><br>
