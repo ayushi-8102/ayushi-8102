@@ -1,14 +1,13 @@
-![hue-hue](https://user-images.githubusercontent.com/91957156/174414818-0038aa38-aef6-47e5-886b-05659cc9c4d7.gif)
---------------
+<div>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2350CA10&size=45&center=true&vCenter=true&width=1000&height=60&lines=Hi!+I'm+Ayushi+Shukla.;A+Pre-Final+year+student+at+IIIT+Vadodara.+;A+Web+Developer.+;Enthusiast+to+learn+new+skills.;Loves+Problem+Solving+and+DSA+;A+quick+learner+."/></p>
+</div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/91957156/142490103-c192839f-2d16-46e3-ba1d-36329d9a1582.jpg">
 
  <br>
-- 🌱 I’m currently learning  Blockchain
+- 🌱 I’m currently learning  Web3.0 Technologies and Practising DSA✨
  <br>
- <br>
- - 🤝 I’m looking for help with Web 3.0 Projects
-  <br><br>
+<br>
 - 💬 Ask me about Web Technologies, DSA, C++, astronomy💫
  <br><br>
 - 📫 How to reach me: <a href="mailto:ayushi.shukla8102@gmail.com">Ayushi Shukla</a>.<br>
