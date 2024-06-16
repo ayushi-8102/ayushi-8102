@@ -1,11 +1,11 @@
 <div>
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2350CA10&size=45&center=true&vCenter=true&width=1000&height=60&lines=Hi!+I'm+Ayushi+Shukla.;A+Pre-Final+year+student+at+IIIT+Vadodara.+;Full-Stack+Web+Developer.+;Enthusiast+to+learn+new+skills.;Loves+Problem+Solving+and+DSA+;A+quick+learner+."/></p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2350CA10&size=45&center=true&vCenter=true&width=1000&height=60&lines=Hi!+I'm+Ayushi+Shukla.;A+Final+Year+Student+at+IIIT+Vadodara.+;Full-Stack+Web+Developer.+;Enthusiast+to+learn+new+skills.;Loves+Problem+Solving+and+DSA+;A+Quick+Learner+."/></p>
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/91957156/142490103-c192839f-2d16-46e3-ba1d-36329d9a1582.jpg">
 
  <br>
-- 🌱 I’m currently learning  Web3.0 Technologies and Practising DSA✨
+- 🌱 I’m currently learning  Rust and Practising DSA✨
  <br>
 <br>
 - 💬 Ask me about Web Technologies, DSA, C++, astronomy💫
@@ -21,6 +21,7 @@
  <a href="https://linkedin.com/in/ayushi-shukla-6502b7228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushi-shukla-6502b7228" height="30" width="40" /></a>
 <a href="https://kaggle.com/ayushi8102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayushi8102" height="30" width="40" /></a>
 <a href="https://dribbble.com/ayu_shiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ayu_shiiii" height="30" width="40" /></a>
+ <a href="https://leetcode.com/u/ayu-she/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=avif&w=256" alt="ayu_shiiii" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
